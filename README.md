@@ -1,6 +1,6 @@
 # 555timer_project_PCB
 PCB - 555 timer piano - link { https://365.altium.com/files/C8FBC0CE-C92D-11EB-A2F6-0A0ABF5AFC1B }
-This toy was made by taking picture of  "Physics of Music" into consideration now to understand the physics of music let's look at the image on the left.
+This project was made by taking picture of  "Physics of Music" into consideration now to understand the physics of music let's look at the image on the left.
 
 ![image](https://user-images.githubusercontent.com/88006688/210155311-ab5f65b8-f916-4947-833f-8236874bb2ae.png)
 
